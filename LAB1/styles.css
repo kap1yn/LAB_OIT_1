@@ -1,13 +1,13 @@
 body {
-    background-image: url("back1.jpg"); /* Вкажіть шлях до вашого зображення */
+    background-image: url("back1.jpg"); 
     background-size: cover; /* Заповнює всю площу батьківського контейнера */
     background-repeat: no-repeat; /* Заборонити повторення зображення */
-    /* Додаткові стилі для позиціонування фону, якщо потрібно */
+    
 }
 
  .line {
-    border: 1px solid #F5F5DC; /* Товщина, тип та колір лінії */
-    margin: 10px 0; /* Відступи від верхнього та нижнього контенту (за потреби) */
+    border: 1px solid #F5F5DC; 
+    margin: 10px 0; 
 }
 
 
