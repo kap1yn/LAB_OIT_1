@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/background.jpg"); 
+    background-size: cover; /* Заповнює всю площу батьківського контейнера */
+    background-repeat: no-repeat; /* Заборонити повторення зображення */
+    
+}
+
+ .line {
+    border: 1px solid #F5F5DC; 
+    margin: 10px 0; 
+}
+
+
+.registration-form {
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
